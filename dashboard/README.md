@@ -16,6 +16,13 @@ GitHub file size limitations.
 Instead, dashboard screenshots are provided in the `images/` folder to
 demonstrate the insights and visualizations.
 
+### Key Insights
+- Terrorist activity peaked between 2012–2015 before declining
+- Majority of attacks were domestic in nature
+- Explosives were the most commonly used weapon type
+- A small number of regions accounted for a large share of total incidents
+
+
 ### Tools Used
 - Power BI
 - Python (for data preprocessing)
